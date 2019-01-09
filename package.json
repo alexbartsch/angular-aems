@@ -9,6 +9,10 @@
     "API",
     "Entities"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexbartsch/angular-aems.git"
+  },
   "author": {
     "name": "Alexander Bartsch",
     "email": "mail@alexbartsch.de"
